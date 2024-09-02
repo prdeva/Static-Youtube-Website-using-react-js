@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Static-Youtube-Website-using-react-js/static/css/main.a1f8cae5.css",
+    "main.js": "/Static-Youtube-Website-using-react-js/static/js/main.d0055be0.js",
+    "static/media/images3.png": "/Static-Youtube-Website-using-react-js/static/media/images3.fe850777f64d224b3ac4.png",
+    "static/media/images1.png": "/Static-Youtube-Website-using-react-js/static/media/images1.866ba26f75123c904216.png",
+    "static/media/images2.png": "/Static-Youtube-Website-using-react-js/static/media/images2.d46704da518a1574590f.png",
+    "static/media/images5.png": "/Static-Youtube-Website-using-react-js/static/media/images5.f0338eed7642ff0b397b.png",
+    "static/media/images6.png": "/Static-Youtube-Website-using-react-js/static/media/images6.591a5c088c70b1dc1771.png",
+    "static/media/images4.png": "/Static-Youtube-Website-using-react-js/static/media/images4.208ce8f5d9c3ef2dd841.png",
+    "static/media/images10.jpg": "/Static-Youtube-Website-using-react-js/static/media/images10.d2ef3230961975c9be47.jpg",
+    "index.html": "/Static-Youtube-Website-using-react-js/index.html",
+    "main.a1f8cae5.css.map": "/Static-Youtube-Website-using-react-js/static/css/main.a1f8cae5.css.map",
+    "main.d0055be0.js.map": "/Static-Youtube-Website-using-react-js/static/js/main.d0055be0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1f8cae5.css",
+    "static/js/main.d0055be0.js"
+  ]
+}
